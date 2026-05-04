@@ -63,6 +63,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [htui](https://github.com/PierreKieffer/htui) Heroku Terminal User Interface
 - [hwinfo-tui](https://github.com/JuanjoFuchs/hwinfo-tui) A gping-inspired terminal visualization tool for monitoring real-time hardware sensor data from HWInfo
 - [ID-Spoofer](https://github.com/NubleX/ID-Spoofer) A cross-platform cybersecurity toolkit for fingerprint and traffic obfuscation.
+- [kapm](https://github.com/kapmcli/kapm) Observability and package compatibility tools for Kiro coding agent projects.
 - [kaskade](https://github.com/sauljabin/kaskade) TUI for kafka, which allows you to interact and consume topics from your terminal in style!
 - [kmon](https://github.com/orhun/kmon) Linux Kernel Manager and Activity Monitor
 - [Kyanos](https://github.com/hengyoush/kyanos) Linux network analysis tool based on eBPF
